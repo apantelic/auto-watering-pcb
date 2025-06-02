@@ -4,6 +4,11 @@ This is a simple PCB project for an automatic plant watering system using an Ard
 It monitors temperature and humidity, tracks time with a real-time clock (RTC), and controls a water pump via a relay.
 The system includes an LCD for displaying data and a push button for manual pump activation.
 
+## Overview
+This project is a custom PCB for an automated plant watering system. It integrates an RTC module, temperature/humidity sensor, relay for pump control, and an LCD for displaying status.
+
+While this version does not include soil moisture sensing, it can be manually activated using a button and is fully extendable for automatic operation in the future.
+
 ##  Components
 
 - Arduino Nano
