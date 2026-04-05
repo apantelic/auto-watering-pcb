@@ -33,11 +33,6 @@ While this version does not include soil moisture sensing, it can be manually ac
 - HL-52S Relay Module
 - DS1302 Real Time Clock (RTC) module
 
-## Project Structure
-
-- `KiCAD`: All KiCAD schematic and layout files
-- `Images`: 3D renders and screenshots of the board
-
 
 ## Author
 
